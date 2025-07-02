@@ -1,0 +1,269 @@
+/* styles_detalle.css - Estilos para equipo_detalle.php */
+
+:root {
+    --primary-blue: #1e3c72;
+    --secondary-blue: #2a5298;
+    --light-blue: #5dade2;
+    --very-light-blue: #ebf3fd;
+    --white: #ffffff;
+    --light-gray: #f8f9fa;
+    --success-color: #28a745;
+    --warning-color: #ffc107;
+    --danger-color: #dc3545;
+    --info-color: #17a2b8;
+    --secondary-color: #6c757d;
+}
+
+body {
+    background-color: var(--light-gray);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.navbar {
+    background: linear-gradient(135deg, var(--primary-blue), var(--secondary-blue)) !important;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+
+.navbar-brand {
+    color: white !important;
+    font-weight: 600;
+    font-size: 1.1rem;
+}
+
+.navbar-nav .nav-link {
+    color: rgba(255,255,255,0.9) !important;
+    font-weight: 500;
+    margin: 0 5px;
+    border-radius: 5px;
+    transition: all 0.3s ease;
+}
+
+.navbar-nav .nav-link:hover {
+    color: white !important;
+    background-color: rgba(255,255,255,0.1);
+}
+
+.navbar-nav .nav-link.active {
+    color: white !important;
+    background-color: rgba(255,255,255,0.2);
+}
+
+.main-content {
+  /*  padding: 40px 20px; */
+ max-width: 1400px; 
+}
+
+.card {
+    border: none;
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    margin-bottom: 20px;
+}
+
+.card-header {
+    background: linear-gradient(135deg, var(--primary-blue), var(--secondary-blue));
+    color: white;
+    border-radius: 12px 12px 0 0 !important;
+    padding: 20px;
+    border: none;
+}
+
+.card-header h4 {
+    margin: 0;
+    font-weight: 600;
+}
+
+.info-section {
+    background: white;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 15px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+    min-height: 200px;
+}
+
+.info-label {
+    font-weight: 600;
+    color: var(--primary-blue);
+    margin-bottom: 5px;
+    font-size: 0.9rem;
+}
+
+.info-value {
+    color: #333;
+    margin-bottom: 12px;
+    padding: 6px 10px;
+    background-color: var(--very-light-blue);
+    border-radius: 6px;
+    border-left: 3px solid var(--light-blue);
+    font-size: 0.9rem;
+}
+
+.info-value.empty-field {
+    background-color: #f8f9fa;
+    color: #6c757d;
+    font-style: italic;
+    border-left: 3px solid #dee2e6;
+}
+
+.status-badge {
+    padding: 6px 10px;
+    border-radius: 15px;
+    font-weight: 500;
+    font-size: 0.8rem;
+    display: inline-block;
+}
+
+.status-badge.success {
+    background-color: var(--success-color);
+    color: white;
+}
+
+.status-badge.warning {
+    background-color: var(--warning-color);
+    color: #333;
+}
+
+.status-badge.danger {
+    background-color: var(--danger-color);
+    color: white;
+}
+
+.status-badge.info {
+    background-color: var(--info-color);
+    color: white;
+}
+
+.status-badge.secondary {
+    background-color: var(--secondary-color);
+    color: white;
+}
+
+.btn {
+    border-radius: 8px;
+    font-weight: 500;
+    padding: 10px 20px;
+    transition: all 0.3s ease;
+}
+
+.btn-primary {
+    background: linear-gradient(135deg, var(--primary-blue), var(--secondary-blue));
+    border: none;
+}
+
+.btn-primary:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 5px 15px rgba(30, 60, 114, 0.3);
+}
+
+.section-title {
+    color: var(--primary-blue);
+    font-weight: 600;
+    font-size: 1.05rem;
+    margin-bottom: 15px;
+    padding-bottom: 8px;
+    border-bottom: 2px solid var(--very-light-blue);
+}
+
+.disk-usage-bar {
+    height: 18px;
+    background-color: #e9ecef;
+    border-radius: 9px;
+    overflow: hidden;
+    margin-top: 5px;
+}
+
+.disk-usage-fill {
+    height: 100%;
+    border-radius: 9px;
+    transition: width 0.3s ease;
+    position: relative;
+}
+
+.disk-usage-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 0.7rem;
+    font-weight: 600;
+    color: white;
+    text-shadow: 1px 1px 2px rgba(0,0,0,0.3);
+}
+
+.timeline-item {
+    border-left: 3px solid var(--light-blue);
+    padding-left: 15px;
+    margin-bottom: 12px;
+    position: relative;
+}
+
+.timeline-item::before {
+    content: '';
+    position: absolute;
+    left: -6px;
+    top: 5px;
+    width: 9px;
+    height: 9px;
+    background-color: var(--light-blue);
+    border-radius: 50%;
+}
+
+.alert-custom {
+    border-radius: 10px;
+    border: none;
+    padding: 15px 20px;
+}
+
+.breadcrumb {
+    background: none;
+    padding: 0;
+    margin-bottom: 20px;
+}
+
+.breadcrumb-item a {
+    color: var(--primary-blue);
+    text-decoration: none;
+}
+
+.breadcrumb-item a:hover {
+    color: var(--secondary-blue);
+}
+
+.metric-card {
+    text-align: center;
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+
+.metric-number {
+    font-size: 1.3rem;
+    font-weight: 700;
+    margin-bottom: 5px;
+}
+
+.metric-label {
+    font-size: 0.75rem;
+    color: #666;
+}
+
+.estado-equipo-activo {
+    background-color: var(--success-color);
+    color: white;
+}
+
+.estado-equipo-inactivo {
+    background-color: var(--secondary-color);
+    color: white;
+}
+
+.estado-equipo-mantenimiento {
+    background-color: var(--warning-color);
+    color: #333;
+}
+
+.estado-equipo-baja {
+    background-color: var(--danger-color);
+    color: white;
+}

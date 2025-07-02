@@ -1,0 +1,250 @@
+/* styles_buscar.css - Estilos para buscar_equipos.php */
+
+:root {
+    --primary-blue: #1e3c72;
+    --secondary-blue: #2a5298;
+    --light-blue: #5dade2;
+    --very-light-blue: #ebf3fd;
+    --white: #ffffff;
+    --light-gray: #f8f9fa;
+    --success-color: #28a745;
+    --warning-color: #ffc107;
+    --danger-color: #dc3545;
+    --info-color: #17a2b8;
+    --secondary-color: #6c757d;
+}
+
+body {
+    background-color: var(--light-gray);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.navbar {
+    background: linear-gradient(135deg, var(--primary-blue), var(--secondary-blue)) !important;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+
+.navbar-brand {
+    color: white !important;
+    font-weight: 600;
+    font-size: 1.1rem;
+}
+
+.navbar-nav .nav-link {
+    color: rgba(255,255,255,0.9) !important;
+    font-weight: 500;
+    margin: 0 5px;
+    border-radius: 5px;
+    transition: all 0.3s ease;
+}
+
+.navbar-nav .nav-link:hover {
+    color: white !important;
+    background-color: rgba(255,255,255,0.1);
+}
+
+.navbar-nav .nav-link.active {
+    color: white !important;
+    background-color: rgba(255,255,255,0.2);
+}
+
+.main-content {
+    padding: 20px 20px;
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+.card {
+    border: none;
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    margin-bottom: 20px;
+}
+
+.card-header {
+    background: linear-gradient(135deg, var(--primary-blue), var(--secondary-blue));
+    color: white;
+    border-radius: 12px 12px 0 0 !important;
+    padding: 15px 20px;
+    border: none;
+}
+
+.card-header h5 {
+    margin: 0;
+    font-weight: 600;
+    font-size: 1rem;
+}
+
+.search-section {
+    background: white;
+    border-radius: 10px;
+    padding: 25px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+
+.section-title {
+    color: var(--primary-blue);
+    font-weight: 600;
+    font-size: 1.05rem;
+    margin-bottom: 15px;
+    padding-bottom: 8px;
+    border-bottom: 2px solid var(--very-light-blue);
+}
+
+.form-control, .form-select {
+    border-radius: 6px;
+    border: 1px solid #dee2e6;
+    font-size: 0.9rem;
+    padding: 8px 12px;
+}
+
+.form-control:focus, .form-select:focus {
+    border-color: var(--light-blue);
+    box-shadow: 0 0 0 0.2rem rgba(93, 173, 226, 0.25);
+}
+
+.btn {
+    border-radius: 6px;
+    font-weight: 500;
+    transition: all 0.3s ease;
+}
+
+.btn-primary {
+    background: linear-gradient(135deg, var(--primary-blue), var(--secondary-blue));
+    border: none;
+}
+
+.btn-primary:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 3px 10px rgba(30, 60, 114, 0.2);
+}
+
+.results-section {
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+
+.table thead th {
+    background-color: var(--very-light-blue);
+    color: var(--primary-blue);
+    font-weight: 600;
+    border: none;
+    font-size: 0.85rem;
+}
+
+.table tbody tr:hover {
+    background-color: var(--very-light-blue);
+}
+
+.badge {
+    border-radius: 15px;
+    padding: 4px 8px;
+    font-size: 0.7rem;
+}
+
+.status-indicator {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 5px;
+}
+
+.status-indicator.success { background-color: var(--success-color); }
+.status-indicator.warning { background-color: var(--warning-color); }
+.status-indicator.danger { background-color: var(--danger-color); }
+.status-indicator.info { background-color: var(--info-color); }
+
+.search-tips {
+    background: var(--very-light-blue);
+    border-radius: 8px;
+    padding: 15px;
+    margin-top: 15px;
+}
+
+.search-tips h6 {
+    color: var(--primary-blue);
+    margin-bottom: 10px;
+}
+
+.breadcrumb {
+    background: none;
+    padding: 0;
+    margin-bottom: 20px;
+}
+
+.breadcrumb-item a {
+    color: var(--primary-blue);
+    text-decoration: none;
+}
+
+.breadcrumb-item a:hover {
+    color: var(--secondary-blue);
+}
+
+.equipo-info {
+    font-size: 0.8rem;
+}
+
+.equipo-info .text-primary {
+    color: var(--primary-blue) !important;
+    font-weight: 600;
+}
+
+.no-results {
+    text-align: center;
+    padding: 40px;
+    color: #6c757d;
+}
+
+.quick-filters {
+    margin-bottom: 15px;
+}
+
+.quick-filter-btn {
+    margin-right: 8px;
+    margin-bottom: 8px;
+    font-size: 0.85rem;
+    padding: 6px 12px;
+}
+
+.ram-checkbox-group {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    margin-top: 8px;
+}
+
+.ram-checkbox-item {
+    display: flex;
+    align-items: center;
+    padding: 8px 12px;
+    border: 1px solid #dee2e6;
+    border-radius: 6px;
+    background-color: #f8f9fa;
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+
+.ram-checkbox-item:hover {
+    background-color: var(--very-light-blue);
+    border-color: var(--light-blue);
+}
+
+.ram-checkbox-item.selected {
+    background-color: var(--very-light-blue);
+    border-color: var(--primary-blue);
+    color: var(--primary-blue);
+}
+
+.ram-checkbox-item input[type="checkbox"] {
+    margin-right: 8px;
+}
+
+.ram-checkbox-item label {
+    margin: 0;
+    cursor: pointer;
+    font-size: 0.9rem;
+}

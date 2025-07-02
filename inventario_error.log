@@ -1,0 +1,1390 @@
+[01-Jul-2025 14:40:06 America/Guatemala] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/inventory/equipo_editar.php on line 526
+[01-Jul-2025 14:40:06 America/Guatemala] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/inventory/equipo_editar.php on line 534
+[01-Jul-2025 14:40:06 America/Guatemala] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/inventory/equipo_editar.php on line 543
+[01-Jul-2025 14:42:13 America/Guatemala] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/inventory/equipo_editar.php on line 526
+[01-Jul-2025 14:42:13 America/Guatemala] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/inventory/equipo_editar.php on line 534
+[01-Jul-2025 14:42:13 America/Guatemala] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/inventory/equipo_editar.php on line 543
+[01-Jul-2025 14:55:12 America/Guatemala] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /var/www/html/inventory/config_inventario.php on line 90
+[01-Jul-2025 14:55:12 America/Guatemala] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/inventory/buscar_equipos.php:1) in /var/www/html/inventory/config_inventario.php on line 94
+[01-Jul-2025 15:02:32 America/Guatemala] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/inventory/equipo_editar.php on line 526
+[01-Jul-2025 15:02:32 America/Guatemala] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/inventory/equipo_editar.php on line 534
+[01-Jul-2025 15:02:32 America/Guatemala] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/inventory/equipo_editar.php on line 543
+[01-Jul-2025 15:05:32 America/Guatemala] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /var/www/html/inventory/config_inventario.php on line 90
+[01-Jul-2025 15:05:32 America/Guatemala] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/inventory/buscar_equipos.php:1) in /var/www/html/inventory/config_inventario.php on line 94
+[02-Jul-2025 08:49:04 America/Guatemala] Parámetros POST: Array
+(
+    [nombre] => 
+    [usuario] => 
+    [fabricante] => 
+    [modelo] => 
+    [serie] => 
+    [estado] => 
+    [ip_externa] => 
+    [ip_local] => 
+    [so] => 
+    [origen] => 
+    [ubicacion] => 
+    [estado_disco] => 
+    [min_disco_libre] => 0
+    [responsable] => 
+    [fecha_desde] => 
+    [fecha_hasta] => 
+)
+
+[02-Jul-2025 08:49:04 America/Guatemala] Parámetros GET: Array
+(
+)
+
+[02-Jul-2025 08:49:04 America/Guatemala] Parámetros POST: Array
+(
+    [nombre] => 
+    [usuario] => 
+    [fabricante] => 
+    [modelo] => 
+    [serie] => 
+    [estado] => 
+    [ip_externa] => 
+    [ip_local] => 
+    [so] => 
+    [origen] => 
+    [ubicacion] => 
+    [estado_disco] => 
+    [min_disco_libre] => 0
+    [responsable] => 
+    [fecha_desde] => 
+    [fecha_hasta] => 
+)
+
+[02-Jul-2025 08:49:04 America/Guatemala] Parámetros GET: Array
+(
+)
+
+[02-Jul-2025 08:49:04 America/Guatemala] Parámetros POST: Array
+(
+    [nombre] => 
+    [usuario] => 
+    [fabricante] => 
+    [modelo] => 
+    [serie] => 
+    [estado] => 
+    [ip_externa] => 
+    [ip_local] => 
+    [so] => 
+    [origen] => 
+    [ubicacion] => 
+    [estado_disco] => 
+    [min_disco_libre] => 0
+    [responsable] => 
+    [fecha_desde] => 
+    [fecha_hasta] => 
+)
+
+[02-Jul-2025 08:49:04 America/Guatemala] Parámetros GET: Array
+(
+)
+
+[02-Jul-2025 08:49:05 America/Guatemala] Parámetros POST: Array
+(
+    [nombre] => 
+    [usuario] => 
+    [fabricante] => 
+    [modelo] => 
+    [serie] => 
+    [estado] => 
+    [ip_externa] => 
+    [ip_local] => 
+    [so] => 
+    [origen] => 
+    [ubicacion] => 
+    [estado_disco] => 
+    [min_disco_libre] => 0
+    [responsable] => 
+    [fecha_desde] => 
+    [fecha_hasta] => 
+)
+
+[02-Jul-2025 08:49:05 America/Guatemala] Parámetros GET: Array
+(
+)
+
+[02-Jul-2025 08:49:05 America/Guatemala] Parámetros POST: Array
+(
+    [nombre] => 
+    [usuario] => 
+    [fabricante] => 
+    [modelo] => 
+    [serie] => 
+    [estado] => 
+    [ip_externa] => 
+    [ip_local] => 
+    [so] => 
+    [origen] => 
+    [ubicacion] => 
+    [estado_disco] => 
+    [min_disco_libre] => 0
+    [responsable] => 
+    [fecha_desde] => 
+    [fecha_hasta] => 
+)
+
+[02-Jul-2025 08:49:05 America/Guatemala] Parámetros GET: Array
+(
+)
+
+[02-Jul-2025 08:49:05 America/Guatemala] Parámetros POST: Array
+(
+    [nombre] => 
+    [usuario] => 
+    [fabricante] => 
+    [modelo] => 
+    [serie] => 
+    [estado] => 
+    [ip_externa] => 
+    [ip_local] => 
+    [so] => 
+    [origen] => 
+    [ubicacion] => 
+    [estado_disco] => 
+    [min_disco_libre] => 0
+    [responsable] => 
+    [fecha_desde] => 
+    [fecha_hasta] => 
+)
+
+[02-Jul-2025 08:49:05 America/Guatemala] Parámetros GET: Array
+(
+)
+
+[02-Jul-2025 08:49:10 America/Guatemala] Parámetros POST: Array
+(
+    [nombre] => 
+    [usuario] => 
+    [fabricante] => 
+    [modelo] => 
+    [serie] => 
+    [estado] => 
+    [ip_externa] => 
+    [ip_local] => 
+    [so] => 
+    [origen] => 
+    [ubicacion] => 
+    [estado_disco] => 
+    [min_disco_libre] => 0
+    [responsable] => 
+    [fecha_desde] => 
+    [fecha_hasta] => 
+)
+
+[02-Jul-2025 08:49:10 America/Guatemala] Parámetros GET: Array
+(
+)
+
+[02-Jul-2025 08:49:43 America/Guatemala] Parámetros POST: Array
+(
+    [nombre] => 
+    [usuario] => 
+    [fabricante] => 
+    [modelo] => 
+    [serie] => 
+    [estado] => 
+    [ip_externa] => 
+    [ip_local] => 
+    [so] => 
+    [origen] => 
+    [ubicacion] => 
+    [estado_disco] => 
+    [min_disco_libre] => 0
+    [responsable] => 
+    [fecha_desde] => 
+    [fecha_hasta] => 
+)
+
+[02-Jul-2025 08:49:43 America/Guatemala] Parámetros GET: Array
+(
+)
+
+[02-Jul-2025 08:49:44 America/Guatemala] Parámetros POST: Array
+(
+    [nombre] => 
+    [usuario] => 
+    [fabricante] => 
+    [modelo] => 
+    [serie] => 
+    [estado] => 
+    [ip_externa] => 
+    [ip_local] => 
+    [so] => 
+    [origen] => 
+    [ubicacion] => 
+    [estado_disco] => 
+    [min_disco_libre] => 0
+    [responsable] => 
+    [fecha_desde] => 
+    [fecha_hasta] => 
+)
+
+[02-Jul-2025 08:49:44 America/Guatemala] Parámetros GET: Array
+(
+)
+
+[02-Jul-2025 08:49:44 America/Guatemala] Parámetros POST: Array
+(
+    [nombre] => 
+    [usuario] => 
+    [fabricante] => 
+    [modelo] => 
+    [serie] => 
+    [estado] => 
+    [ip_externa] => 
+    [ip_local] => 
+    [so] => 
+    [origen] => 
+    [ubicacion] => 
+    [estado_disco] => 
+    [min_disco_libre] => 0
+    [responsable] => 
+    [fecha_desde] => 
+    [fecha_hasta] => 
+)
+
+[02-Jul-2025 08:49:44 America/Guatemala] Parámetros GET: Array
+(
+)
+
+[02-Jul-2025 08:49:44 America/Guatemala] Parámetros POST: Array
+(
+    [nombre] => 
+    [usuario] => 
+    [fabricante] => 
+    [modelo] => 
+    [serie] => 
+    [estado] => 
+    [ip_externa] => 
+    [ip_local] => 
+    [so] => 
+    [origen] => 
+    [ubicacion] => 
+    [estado_disco] => 
+    [min_disco_libre] => 0
+    [responsable] => 
+    [fecha_desde] => 
+    [fecha_hasta] => 
+)
+
+[02-Jul-2025 08:49:44 America/Guatemala] Parámetros GET: Array
+(
+)
+
+[02-Jul-2025 08:49:44 America/Guatemala] Parámetros POST: Array
+(
+    [nombre] => 
+    [usuario] => 
+    [fabricante] => 
+    [modelo] => 
+    [serie] => 
+    [estado] => 
+    [ip_externa] => 
+    [ip_local] => 
+    [so] => 
+    [origen] => 
+    [ubicacion] => 
+    [estado_disco] => 
+    [min_disco_libre] => 0
+    [responsable] => 
+    [fecha_desde] => 
+    [fecha_hasta] => 
+)
+
+[02-Jul-2025 08:49:44 America/Guatemala] Parámetros GET: Array
+(
+)
+
+[02-Jul-2025 08:49:45 America/Guatemala] Parámetros POST: Array
+(
+    [nombre] => 
+    [usuario] => 
+    [fabricante] => 
+    [modelo] => 
+    [serie] => 
+    [estado] => 
+    [ip_externa] => 
+    [ip_local] => 
+    [so] => 
+    [origen] => 
+    [ubicacion] => 
+    [estado_disco] => 
+    [min_disco_libre] => 0
+    [responsable] => 
+    [fecha_desde] => 
+    [fecha_hasta] => 
+)
+
+[02-Jul-2025 08:49:45 America/Guatemala] Parámetros GET: Array
+(
+)
+
+[02-Jul-2025 08:49:45 America/Guatemala] Parámetros POST: Array
+(
+    [nombre] => 
+    [usuario] => 
+    [fabricante] => 
+    [modelo] => 
+    [serie] => 
+    [estado] => 
+    [ip_externa] => 
+    [ip_local] => 
+    [so] => 
+    [origen] => 
+    [ubicacion] => 
+    [estado_disco] => 
+    [min_disco_libre] => 0
+    [responsable] => 
+    [fecha_desde] => 
+    [fecha_hasta] => 
+)
+
+[02-Jul-2025 08:49:45 America/Guatemala] Parámetros GET: Array
+(
+)
+
+[02-Jul-2025 08:49:45 America/Guatemala] Parámetros POST: Array
+(
+    [nombre] => 
+    [usuario] => 
+    [fabricante] => 
+    [modelo] => 
+    [serie] => 
+    [estado] => 
+    [ip_externa] => 
+    [ip_local] => 
+    [so] => 
+    [origen] => 
+    [ubicacion] => 
+    [estado_disco] => 
+    [min_disco_libre] => 0
+    [responsable] => 
+    [fecha_desde] => 
+    [fecha_hasta] => 
+)
+
+[02-Jul-2025 08:49:45 America/Guatemala] Parámetros GET: Array
+(
+)
+
+[02-Jul-2025 08:49:45 America/Guatemala] Parámetros POST: Array
+(
+    [nombre] => 
+    [usuario] => 
+    [fabricante] => 
+    [modelo] => 
+    [serie] => 
+    [estado] => 
+    [ip_externa] => 
+    [ip_local] => 
+    [so] => 
+    [origen] => 
+    [ubicacion] => 
+    [estado_disco] => 
+    [min_disco_libre] => 0
+    [responsable] => 
+    [fecha_desde] => 
+    [fecha_hasta] => 
+)
+
+[02-Jul-2025 08:49:45 America/Guatemala] Parámetros GET: Array
+(
+)
+
+[02-Jul-2025 08:49:45 America/Guatemala] Parámetros POST: Array
+(
+    [nombre] => 
+    [usuario] => 
+    [fabricante] => 
+    [modelo] => 
+    [serie] => 
+    [estado] => 
+    [ip_externa] => 
+    [ip_local] => 
+    [so] => 
+    [origen] => 
+    [ubicacion] => 
+    [estado_disco] => 
+    [min_disco_libre] => 0
+    [responsable] => 
+    [fecha_desde] => 
+    [fecha_hasta] => 
+)
+
+[02-Jul-2025 08:49:45 America/Guatemala] Parámetros GET: Array
+(
+)
+
+[02-Jul-2025 08:49:50 America/Guatemala] Parámetros POST: Array
+(
+    [nombre] => 
+    [usuario] => 
+    [fabricante] => 
+    [modelo] => 
+    [serie] => 
+    [estado] => 
+    [ip_externa] => 
+    [ip_local] => 
+    [so] => 
+    [origen] => 
+    [ubicacion] => 
+    [estado_disco] => 
+    [min_disco_libre] => 0
+    [responsable] => 
+    [fecha_desde] => 
+    [fecha_hasta] => 
+)
+
+[02-Jul-2025 08:49:50 America/Guatemala] Parámetros GET: Array
+(
+)
+
+[02-Jul-2025 08:51:22 America/Guatemala] Parámetros POST: Array
+(
+    [nombre] => 
+    [usuario] => 
+    [fabricante] => 
+    [modelo] => 
+    [serie] => 
+    [estado] => 
+    [ip_externa] => 
+    [ip_local] => 172.17
+    [so] => 
+    [origen] => 
+    [ubicacion] => 
+    [estado_disco] => 
+    [min_disco_libre] => 0
+    [responsable] => 
+    [fecha_desde] => 
+    [fecha_hasta] => 
+)
+
+[02-Jul-2025 08:51:22 America/Guatemala] Parámetros GET: Array
+(
+)
+
+[02-Jul-2025 08:51:42 America/Guatemala] Parámetros POST: Array
+(
+    [nombre] => 
+    [usuario] => 
+    [fabricante] => 
+    [modelo] => 
+    [serie] => 
+    [estado] => 
+    [ip_externa] => 
+    [ip_local] => 
+    [so] => 
+    [origen] => 
+    [ubicacion] => 
+    [ram_especifica] => Array
+        (
+            [0] => 8
+        )
+
+    [estado_disco] => 
+    [min_disco_libre] => 0
+    [responsable] => 
+    [fecha_desde] => 
+    [fecha_hasta] => 
+)
+
+[02-Jul-2025 08:51:42 America/Guatemala] Parámetros GET: Array
+(
+)
+
+[02-Jul-2025 08:51:50 America/Guatemala] Parámetros POST: Array
+(
+    [nombre] => 
+    [usuario] => pyela
+    [fabricante] => 
+    [modelo] => 
+    [serie] => 
+    [estado] => 
+    [ip_externa] => 
+    [ip_local] => 
+    [so] => 
+    [origen] => 
+    [ubicacion] => 
+    [ram_especifica] => Array
+        (
+            [0] => 8
+        )
+
+    [estado_disco] => 
+    [min_disco_libre] => 0
+    [responsable] => 
+    [fecha_desde] => 
+    [fecha_hasta] => 
+)
+
+[02-Jul-2025 08:51:50 America/Guatemala] Parámetros GET: Array
+(
+)
+
+[02-Jul-2025 08:51:52 America/Guatemala] Parámetros POST: Array
+(
+    [nombre] => 
+    [usuario] => pyela
+    [fabricante] => 
+    [modelo] => 
+    [serie] => 
+    [estado] => 
+    [ip_externa] => 
+    [ip_local] => 
+    [so] => 
+    [origen] => 
+    [ubicacion] => 
+    [ram_especifica] => Array
+        (
+            [0] => 8
+        )
+
+    [estado_disco] => 
+    [min_disco_libre] => 0
+    [responsable] => 
+    [fecha_desde] => 
+    [fecha_hasta] => 
+)
+
+[02-Jul-2025 08:51:52 America/Guatemala] Parámetros GET: Array
+(
+)
+
+[02-Jul-2025 08:51:58 America/Guatemala] Parámetros POST: Array
+(
+    [nombre] => 
+    [usuario] => 
+    [fabricante] => 
+    [modelo] => 
+    [serie] => 
+    [estado] => 
+    [ip_externa] => 
+    [ip_local] => 
+    [so] => 
+    [origen] => 
+    [ubicacion] => 
+    [ram_especifica] => Array
+        (
+            [0] => 8
+        )
+
+    [estado_disco] => 
+    [min_disco_libre] => 0
+    [responsable] => 
+    [fecha_desde] => 
+    [fecha_hasta] => 
+)
+
+[02-Jul-2025 08:51:58 America/Guatemala] Parámetros GET: Array
+(
+)
+
+[02-Jul-2025 08:52:10 America/Guatemala] Parámetros POST: Array
+(
+    [nombre] => 
+    [usuario] => 
+    [fabricante] => 
+    [modelo] => 
+    [serie] => 
+    [estado] => 
+    [ip_externa] => 
+    [ip_local] => 
+    [so] => 
+    [origen] => 
+    [ubicacion] => 
+    [ram_especifica] => Array
+        (
+            [0] => 8
+        )
+
+    [estado_disco] => alerta
+    [min_disco_libre] => 0
+    [responsable] => 
+    [fecha_desde] => 
+    [fecha_hasta] => 
+)
+
+[02-Jul-2025 08:52:10 America/Guatemala] Parámetros GET: Array
+(
+)
+
+[02-Jul-2025 08:52:13 America/Guatemala] Parámetros POST: Array
+(
+    [nombre] => 
+    [usuario] => 
+    [fabricante] => 
+    [modelo] => 
+    [serie] => 
+    [estado] => 
+    [ip_externa] => 
+    [ip_local] => 
+    [so] => 
+    [origen] => 
+    [ubicacion] => 
+    [ram_especifica] => Array
+        (
+            [0] => 8
+        )
+
+    [estado_disco] => critico
+    [min_disco_libre] => 0
+    [responsable] => 
+    [fecha_desde] => 
+    [fecha_hasta] => 
+)
+
+[02-Jul-2025 08:52:13 America/Guatemala] Parámetros GET: Array
+(
+)
+
+[02-Jul-2025 08:52:15 America/Guatemala] Parámetros POST: Array
+(
+    [nombre] => 
+    [usuario] => 
+    [fabricante] => 
+    [modelo] => 
+    [serie] => 
+    [estado] => 
+    [ip_externa] => 
+    [ip_local] => 
+    [so] => Windows 11
+    [origen] => 
+    [ubicacion] => 
+    [ram_especifica] => Array
+        (
+            [0] => 8
+        )
+
+    [estado_disco] => critico
+    [min_disco_libre] => 0
+    [responsable] => 
+    [fecha_desde] => 
+    [fecha_hasta] => 
+)
+
+[02-Jul-2025 08:52:15 America/Guatemala] Parámetros GET: Array
+(
+)
+
+[02-Jul-2025 08:52:17 America/Guatemala] Parámetros POST: Array
+(
+    [nombre] => 
+    [usuario] => 
+    [fabricante] => 
+    [modelo] => 
+    [serie] => 
+    [estado] => 
+    [ip_externa] => 
+    [ip_local] => 
+    [so] => Windows 11
+    [origen] => 
+    [ubicacion] => 
+    [ram_especifica] => Array
+        (
+            [0] => 8
+        )
+
+    [estado_disco] => critico
+    [min_disco_libre] => 0
+    [responsable] => 
+    [fecha_desde] => 
+    [fecha_hasta] => 
+)
+
+[02-Jul-2025 08:52:17 America/Guatemala] Parámetros GET: Array
+(
+)
+
+[02-Jul-2025 08:52:25 America/Guatemala] Parámetros POST: Array
+(
+    [nombre] => 
+    [usuario] => 
+    [fabricante] => 
+    [modelo] => 
+    [serie] => 
+    [estado] => 
+    [ip_externa] => 
+    [ip_local] => 
+    [so] => 
+    [origen] => 
+    [ubicacion] => 
+    [ram_especifica] => Array
+        (
+            [0] => 8
+        )
+
+    [estado_disco] => 
+    [min_disco_libre] => 0
+    [responsable] => 
+    [fecha_desde] => 
+    [fecha_hasta] => 
+)
+
+[02-Jul-2025 08:52:25 America/Guatemala] Parámetros GET: Array
+(
+)
+
+[02-Jul-2025 08:52:36 America/Guatemala] Parámetros POST: Array
+(
+    [nombre] => 
+    [usuario] => 
+    [fabricante] => 
+    [modelo] => 
+    [serie] => 
+    [estado] => 
+    [ip_externa] => 
+    [ip_local] => 
+    [so] => Windows 11
+    [origen] => 
+    [ubicacion] => 
+    [ram_especifica] => Array
+        (
+            [0] => 8
+        )
+
+    [estado_disco] => 
+    [min_disco_libre] => 0
+    [responsable] => 
+    [fecha_desde] => 
+    [fecha_hasta] => 
+)
+
+[02-Jul-2025 08:52:36 America/Guatemala] Parámetros GET: Array
+(
+)
+
+[02-Jul-2025 08:52:37 America/Guatemala] Parámetros POST: Array
+(
+    [nombre] => 
+    [usuario] => 
+    [fabricante] => 
+    [modelo] => 
+    [serie] => 
+    [estado] => 
+    [ip_externa] => 
+    [ip_local] => 
+    [so] => Windows 11
+    [origen] => 
+    [ubicacion] => 
+    [ram_especifica] => Array
+        (
+            [0] => 8
+        )
+
+    [estado_disco] => 
+    [min_disco_libre] => 0
+    [responsable] => 
+    [fecha_desde] => 
+    [fecha_hasta] => 
+)
+
+[02-Jul-2025 08:52:37 America/Guatemala] Parámetros GET: Array
+(
+)
+
+[02-Jul-2025 08:53:05 America/Guatemala] Parámetros POST: Array
+(
+    [nombre] => 
+    [usuario] => 
+    [fabricante] => 
+    [modelo] => 
+    [serie] => 
+    [estado] => 
+    [ip_externa] => 
+    [ip_local] => 172.17.0.12
+    [so] => Windows 11
+    [origen] => 
+    [ubicacion] => 
+    [estado_disco] => 
+    [min_disco_libre] => 0
+    [responsable] => 
+    [fecha_desde] => 
+    [fecha_hasta] => 
+)
+
+[02-Jul-2025 08:53:05 America/Guatemala] Parámetros GET: Array
+(
+)
+
+[02-Jul-2025 08:53:12 America/Guatemala] Parámetros POST: Array
+(
+    [nombre] => 
+    [usuario] => pyela
+    [fabricante] => 
+    [modelo] => 
+    [serie] => 
+    [estado] => 
+    [ip_externa] => 
+    [ip_local] => 
+    [so] => 
+    [origen] => 
+    [ubicacion] => 
+    [estado_disco] => 
+    [min_disco_libre] => 0
+    [responsable] => 
+    [fecha_desde] => 
+    [fecha_hasta] => 
+)
+
+[02-Jul-2025 08:53:12 America/Guatemala] Parámetros GET: Array
+(
+)
+
+[02-Jul-2025 08:53:36 America/Guatemala] Parámetros POST: Array
+(
+    [nombre] => 
+    [usuario] => 
+    [fabricante] => 
+    [modelo] => 
+    [serie] => 
+    [estado] => Activo
+    [ip_externa] => 
+    [ip_local] => 
+    [so] => 
+    [origen] => 
+    [ubicacion] => 
+    [estado_disco] => 
+    [min_disco_libre] => 0
+    [responsable] => 
+    [fecha_desde] => 
+    [fecha_hasta] => 
+)
+
+[02-Jul-2025 08:53:36 America/Guatemala] Parámetros GET: Array
+(
+)
+
+[02-Jul-2025 08:53:45 America/Guatemala] Parámetros POST: Array
+(
+    [nombre] => 
+    [usuario] => 
+    [fabricante] => 
+    [modelo] => 
+    [serie] => 
+    [estado] => 
+    [ip_externa] => 
+    [ip_local] => 
+    [so] => 
+    [origen] => 
+    [ubicacion] => 
+    [ram_especifica] => Array
+        (
+            [0] => 16
+        )
+
+    [estado_disco] => 
+    [min_disco_libre] => 0
+    [responsable] => 
+    [fecha_desde] => 
+    [fecha_hasta] => 
+)
+
+[02-Jul-2025 08:53:45 America/Guatemala] Parámetros GET: Array
+(
+)
+
+[02-Jul-2025 08:53:56 America/Guatemala] Parámetros POST: Array
+(
+    [nombre] => 
+    [usuario] => 
+    [fabricante] => 
+    [modelo] => 
+    [serie] => 
+    [estado] => 
+    [ip_externa] => 
+    [ip_local] => 
+    [so] => 
+    [origen] => 
+    [ubicacion] => 
+    [estado_disco] => 
+    [min_disco_libre] => 0
+    [responsable] => 
+    [fecha_desde] => 
+    [fecha_hasta] => 
+)
+
+[02-Jul-2025 08:53:56 America/Guatemala] Parámetros GET: Array
+(
+)
+
+[02-Jul-2025 08:54:05 America/Guatemala] Parámetros POST: Array
+(
+    [nombre] => 
+    [usuario] => pyela
+    [fabricante] => 
+    [modelo] => 
+    [serie] => 
+    [estado] => 
+    [ip_externa] => 
+    [ip_local] => 
+    [so] => 
+    [origen] => 
+    [ubicacion] => 
+    [estado_disco] => 
+    [min_disco_libre] => 0
+    [responsable] => 
+    [fecha_desde] => 
+    [fecha_hasta] => 
+)
+
+[02-Jul-2025 08:54:05 America/Guatemala] Parámetros GET: Array
+(
+)
+
+[02-Jul-2025 08:54:11 America/Guatemala] Parámetros POST: Array
+(
+    [nombre] => 
+    [usuario] => pyela
+    [fabricante] => 
+    [modelo] => 
+    [serie] => 
+    [estado] => 
+    [ip_externa] => 
+    [ip_local] => 
+    [so] => 
+    [origen] => 
+    [ubicacion] => 
+    [ram_especifica] => Array
+        (
+            [0] => 16
+        )
+
+    [estado_disco] => 
+    [min_disco_libre] => 0
+    [responsable] => 
+    [fecha_desde] => 
+    [fecha_hasta] => 
+)
+
+[02-Jul-2025 08:54:11 America/Guatemala] Parámetros GET: Array
+(
+)
+
+[02-Jul-2025 08:56:09 America/Guatemala] Parámetros POST: Array
+(
+    [nombre] => 
+    [usuario] => 
+    [fabricante] => 
+    [modelo] => 
+    [serie] => BPY9CW3
+    [estado] => 
+    [ip_externa] => 
+    [ip_local] => 
+    [so] => 
+    [origen] => 
+    [ubicacion] => 
+    [estado_disco] => 
+    [min_disco_libre] => 0
+    [responsable] => 
+    [fecha_desde] => 
+    [fecha_hasta] => 
+)
+
+[02-Jul-2025 08:56:09 America/Guatemala] Parámetros GET: Array
+(
+)
+
+[02-Jul-2025 08:56:19 America/Guatemala] Parámetros POST: Array
+(
+    [nombre] => 
+    [usuario] => 
+    [fabricante] => 
+    [modelo] => 
+    [serie] => 
+    [estado] => 
+    [ip_externa] => 
+    [ip_local] => 
+    [so] => 
+    [origen] => 
+    [ubicacion] => 
+    [estado_disco] => 
+    [min_disco_libre] => 0
+    [responsable] => 
+    [fecha_desde] => 
+    [fecha_hasta] => 
+)
+
+[02-Jul-2025 08:56:19 America/Guatemala] Parámetros GET: Array
+(
+)
+
+[02-Jul-2025 08:56:24 America/Guatemala] Parámetros POST: Array
+(
+    [nombre] => 
+    [usuario] => 
+    [fabricante] => 
+    [modelo] => 
+    [serie] => 
+    [estado] => 
+    [ip_externa] => 
+    [ip_local] => 
+    [so] => 
+    [origen] => 
+    [ubicacion] => 
+    [estado_disco] => 
+    [min_disco_libre] => 0
+    [responsable] => 
+    [fecha_desde] => 
+    [fecha_hasta] => 
+)
+
+[02-Jul-2025 08:56:24 America/Guatemala] Parámetros GET: Array
+(
+)
+
+[02-Jul-2025 09:22:31 America/Guatemala] === DEBUG FILTRO ===
+[02-Jul-2025 09:22:31 America/Guatemala] Filtro búsqueda: 'pyela'
+[02-Jul-2025 09:22:31 America/Guatemala] SQL: 
+    SELECT id, nombre_equipo, ip_equipo, ip_local, procesador, memoria_ram, 
+           disco_duro, sistema_operativo, fabricante, modelo, numero_serie,
+           usuario_sistema, fecha_captura, origen_datos, observaciones,
+           ubicacion, responsable, estado_equipo
+    FROM equipos_info 
+    WHERE (nombre_equipo LIKE ? OR ip_equipo LIKE ? OR numero_serie LIKE ? OR modelo LIKE ?)
+    ORDER BY fecha_captura DESC
+    LIMIT ? OFFSET ?
+
+[02-Jul-2025 09:22:31 America/Guatemala] Parámetros: Array
+(
+    [0] => %pyela%
+    [1] => %pyela%
+    [2] => %pyela%
+    [3] => %pyela%
+    [4] => 25
+    [5] => 0
+)
+
+[02-Jul-2025 09:22:31 America/Guatemala] PHP Warning:  Undefined variable $equipos in /var/www/html/inventory/equipos_lista.php on line 80
+[02-Jul-2025 09:22:31 America/Guatemala] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /var/www/html/inventory/equipos_lista.php:80
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/inventory/equipos_lista.php on line 80
+[02-Jul-2025 09:23:21 America/Guatemala] === DEBUG FILTRO ===
+[02-Jul-2025 09:23:21 America/Guatemala] Filtro búsqueda: 'pyela'
+[02-Jul-2025 09:23:21 America/Guatemala] WHERE clause: WHERE (nombre_equipo LIKE ? OR ip_equipo LIKE ? OR numero_serie LIKE ? OR modelo LIKE ?)
+[02-Jul-2025 09:23:21 America/Guatemala] SQL: 
+    SELECT id, nombre_equipo, ip_equipo, ip_local, procesador, memoria_ram, 
+           disco_duro, sistema_operativo, fabricante, modelo, numero_serie,
+           usuario_sistema, fecha_captura, origen_datos, observaciones,
+           ubicacion, responsable, estado_equipo
+    FROM equipos_info 
+    WHERE (nombre_equipo LIKE ? OR ip_equipo LIKE ? OR numero_serie LIKE ? OR modelo LIKE ?)
+    ORDER BY fecha_captura DESC
+    LIMIT ? OFFSET ?
+
+[02-Jul-2025 09:23:21 America/Guatemala] Parámetros: Array
+(
+    [0] => %pyela%
+    [1] => %pyela%
+    [2] => %pyela%
+    [3] => %pyela%
+    [4] => 25
+    [5] => 0
+)
+
+[02-Jul-2025 09:23:21 America/Guatemala] Equipos encontrados: 0
+[02-Jul-2025 09:23:21 America/Guatemala] ===================
+[02-Jul-2025 09:23:24 America/Guatemala] === DEBUG FILTRO ===
+[02-Jul-2025 09:23:24 America/Guatemala] Filtro búsqueda: 'pyela'
+[02-Jul-2025 09:23:24 America/Guatemala] WHERE clause: WHERE (nombre_equipo LIKE ? OR ip_equipo LIKE ? OR numero_serie LIKE ? OR modelo LIKE ?)
+[02-Jul-2025 09:23:24 America/Guatemala] SQL: 
+    SELECT id, nombre_equipo, ip_equipo, ip_local, procesador, memoria_ram, 
+           disco_duro, sistema_operativo, fabricante, modelo, numero_serie,
+           usuario_sistema, fecha_captura, origen_datos, observaciones,
+           ubicacion, responsable, estado_equipo
+    FROM equipos_info 
+    WHERE (nombre_equipo LIKE ? OR ip_equipo LIKE ? OR numero_serie LIKE ? OR modelo LIKE ?)
+    ORDER BY fecha_captura DESC
+    LIMIT ? OFFSET ?
+
+[02-Jul-2025 09:23:24 America/Guatemala] Parámetros: Array
+(
+    [0] => %pyela%
+    [1] => %pyela%
+    [2] => %pyela%
+    [3] => %pyela%
+    [4] => 25
+    [5] => 0
+)
+
+[02-Jul-2025 09:23:24 America/Guatemala] Equipos encontrados: 0
+[02-Jul-2025 09:23:24 America/Guatemala] ===================
+[02-Jul-2025 09:23:25 America/Guatemala] === DEBUG FILTRO ===
+[02-Jul-2025 09:23:25 America/Guatemala] Filtro búsqueda: 'pyela'
+[02-Jul-2025 09:23:25 America/Guatemala] WHERE clause: WHERE (nombre_equipo LIKE ? OR ip_equipo LIKE ? OR numero_serie LIKE ? OR modelo LIKE ?)
+[02-Jul-2025 09:23:25 America/Guatemala] SQL: 
+    SELECT id, nombre_equipo, ip_equipo, ip_local, procesador, memoria_ram, 
+           disco_duro, sistema_operativo, fabricante, modelo, numero_serie,
+           usuario_sistema, fecha_captura, origen_datos, observaciones,
+           ubicacion, responsable, estado_equipo
+    FROM equipos_info 
+    WHERE (nombre_equipo LIKE ? OR ip_equipo LIKE ? OR numero_serie LIKE ? OR modelo LIKE ?)
+    ORDER BY fecha_captura DESC
+    LIMIT ? OFFSET ?
+
+[02-Jul-2025 09:23:25 America/Guatemala] Parámetros: Array
+(
+    [0] => %pyela%
+    [1] => %pyela%
+    [2] => %pyela%
+    [3] => %pyela%
+    [4] => 25
+    [5] => 0
+)
+
+[02-Jul-2025 09:23:25 America/Guatemala] Equipos encontrados: 0
+[02-Jul-2025 09:23:25 America/Guatemala] ===================
+[02-Jul-2025 09:23:25 America/Guatemala] === DEBUG FILTRO ===
+[02-Jul-2025 09:23:25 America/Guatemala] Filtro búsqueda: 'pyela'
+[02-Jul-2025 09:23:25 America/Guatemala] WHERE clause: WHERE (nombre_equipo LIKE ? OR ip_equipo LIKE ? OR numero_serie LIKE ? OR modelo LIKE ?)
+[02-Jul-2025 09:23:25 America/Guatemala] SQL: 
+    SELECT id, nombre_equipo, ip_equipo, ip_local, procesador, memoria_ram, 
+           disco_duro, sistema_operativo, fabricante, modelo, numero_serie,
+           usuario_sistema, fecha_captura, origen_datos, observaciones,
+           ubicacion, responsable, estado_equipo
+    FROM equipos_info 
+    WHERE (nombre_equipo LIKE ? OR ip_equipo LIKE ? OR numero_serie LIKE ? OR modelo LIKE ?)
+    ORDER BY fecha_captura DESC
+    LIMIT ? OFFSET ?
+
+[02-Jul-2025 09:23:25 America/Guatemala] Parámetros: Array
+(
+    [0] => %pyela%
+    [1] => %pyela%
+    [2] => %pyela%
+    [3] => %pyela%
+    [4] => 25
+    [5] => 0
+)
+
+[02-Jul-2025 09:23:25 America/Guatemala] Equipos encontrados: 0
+[02-Jul-2025 09:23:25 America/Guatemala] ===================
+[02-Jul-2025 09:23:25 America/Guatemala] === DEBUG FILTRO ===
+[02-Jul-2025 09:23:25 America/Guatemala] Filtro búsqueda: 'pyela'
+[02-Jul-2025 09:23:25 America/Guatemala] WHERE clause: WHERE (nombre_equipo LIKE ? OR ip_equipo LIKE ? OR numero_serie LIKE ? OR modelo LIKE ?)
+[02-Jul-2025 09:23:25 America/Guatemala] SQL: 
+    SELECT id, nombre_equipo, ip_equipo, ip_local, procesador, memoria_ram, 
+           disco_duro, sistema_operativo, fabricante, modelo, numero_serie,
+           usuario_sistema, fecha_captura, origen_datos, observaciones,
+           ubicacion, responsable, estado_equipo
+    FROM equipos_info 
+    WHERE (nombre_equipo LIKE ? OR ip_equipo LIKE ? OR numero_serie LIKE ? OR modelo LIKE ?)
+    ORDER BY fecha_captura DESC
+    LIMIT ? OFFSET ?
+
+[02-Jul-2025 09:23:25 America/Guatemala] Parámetros: Array
+(
+    [0] => %pyela%
+    [1] => %pyela%
+    [2] => %pyela%
+    [3] => %pyela%
+    [4] => 25
+    [5] => 0
+)
+
+[02-Jul-2025 09:23:25 America/Guatemala] Equipos encontrados: 0
+[02-Jul-2025 09:23:25 America/Guatemala] ===================
+[02-Jul-2025 09:23:25 America/Guatemala] === DEBUG FILTRO ===
+[02-Jul-2025 09:23:25 America/Guatemala] Filtro búsqueda: 'pyela'
+[02-Jul-2025 09:23:25 America/Guatemala] WHERE clause: WHERE (nombre_equipo LIKE ? OR ip_equipo LIKE ? OR numero_serie LIKE ? OR modelo LIKE ?)
+[02-Jul-2025 09:23:25 America/Guatemala] SQL: 
+    SELECT id, nombre_equipo, ip_equipo, ip_local, procesador, memoria_ram, 
+           disco_duro, sistema_operativo, fabricante, modelo, numero_serie,
+           usuario_sistema, fecha_captura, origen_datos, observaciones,
+           ubicacion, responsable, estado_equipo
+    FROM equipos_info 
+    WHERE (nombre_equipo LIKE ? OR ip_equipo LIKE ? OR numero_serie LIKE ? OR modelo LIKE ?)
+    ORDER BY fecha_captura DESC
+    LIMIT ? OFFSET ?
+
+[02-Jul-2025 09:23:25 America/Guatemala] Parámetros: Array
+(
+    [0] => %pyela%
+    [1] => %pyela%
+    [2] => %pyela%
+    [3] => %pyela%
+    [4] => 25
+    [5] => 0
+)
+
+[02-Jul-2025 09:23:25 America/Guatemala] Equipos encontrados: 0
+[02-Jul-2025 09:23:25 America/Guatemala] ===================
+[02-Jul-2025 09:23:26 America/Guatemala] === DEBUG FILTRO ===
+[02-Jul-2025 09:23:26 America/Guatemala] Filtro búsqueda: 'pyela'
+[02-Jul-2025 09:23:26 America/Guatemala] WHERE clause: WHERE (nombre_equipo LIKE ? OR ip_equipo LIKE ? OR numero_serie LIKE ? OR modelo LIKE ?)
+[02-Jul-2025 09:23:26 America/Guatemala] SQL: 
+    SELECT id, nombre_equipo, ip_equipo, ip_local, procesador, memoria_ram, 
+           disco_duro, sistema_operativo, fabricante, modelo, numero_serie,
+           usuario_sistema, fecha_captura, origen_datos, observaciones,
+           ubicacion, responsable, estado_equipo
+    FROM equipos_info 
+    WHERE (nombre_equipo LIKE ? OR ip_equipo LIKE ? OR numero_serie LIKE ? OR modelo LIKE ?)
+    ORDER BY fecha_captura DESC
+    LIMIT ? OFFSET ?
+
+[02-Jul-2025 09:23:26 America/Guatemala] Parámetros: Array
+(
+    [0] => %pyela%
+    [1] => %pyela%
+    [2] => %pyela%
+    [3] => %pyela%
+    [4] => 25
+    [5] => 0
+)
+
+[02-Jul-2025 09:23:26 America/Guatemala] Equipos encontrados: 0
+[02-Jul-2025 09:23:26 America/Guatemala] ===================
+[02-Jul-2025 09:23:30 America/Guatemala] === DEBUG FILTRO ===
+[02-Jul-2025 09:23:30 America/Guatemala] Filtro búsqueda: '172.17.0.12'
+[02-Jul-2025 09:23:30 America/Guatemala] WHERE clause: WHERE (nombre_equipo LIKE ? OR ip_equipo LIKE ? OR numero_serie LIKE ? OR modelo LIKE ?)
+[02-Jul-2025 09:23:30 America/Guatemala] SQL: 
+    SELECT id, nombre_equipo, ip_equipo, ip_local, procesador, memoria_ram, 
+           disco_duro, sistema_operativo, fabricante, modelo, numero_serie,
+           usuario_sistema, fecha_captura, origen_datos, observaciones,
+           ubicacion, responsable, estado_equipo
+    FROM equipos_info 
+    WHERE (nombre_equipo LIKE ? OR ip_equipo LIKE ? OR numero_serie LIKE ? OR modelo LIKE ?)
+    ORDER BY fecha_captura DESC
+    LIMIT ? OFFSET ?
+
+[02-Jul-2025 09:23:30 America/Guatemala] Parámetros: Array
+(
+    [0] => %172.17.0.12%
+    [1] => %172.17.0.12%
+    [2] => %172.17.0.12%
+    [3] => %172.17.0.12%
+    [4] => 25
+    [5] => 0
+)
+
+[02-Jul-2025 09:23:30 America/Guatemala] Equipos encontrados: 0
+[02-Jul-2025 09:23:30 America/Guatemala] ===================
+[02-Jul-2025 09:24:25 America/Guatemala] === DEBUG FILTRO ===
+[02-Jul-2025 09:24:25 America/Guatemala] Filtro búsqueda: '172.17.0.12'
+[02-Jul-2025 09:24:25 America/Guatemala] WHERE clause: WHERE (nombre_equipo LIKE ? OR ip_equipo LIKE ? OR numero_serie LIKE ? OR modelo LIKE ?)
+[02-Jul-2025 09:24:25 America/Guatemala] SQL: 
+    SELECT id, nombre_equipo, ip_equipo, ip_local, procesador, memoria_ram, 
+           disco_duro, sistema_operativo, fabricante, modelo, numero_serie,
+           usuario_sistema, fecha_captura, origen_datos, observaciones,
+           ubicacion, responsable, estado_equipo
+    FROM equipos_info 
+    WHERE (nombre_equipo LIKE ? OR ip_equipo LIKE ? OR numero_serie LIKE ? OR modelo LIKE ?)
+    ORDER BY fecha_captura DESC
+    LIMIT ? OFFSET ?
+
+[02-Jul-2025 09:24:25 America/Guatemala] Parámetros: Array
+(
+    [0] => %172.17.0.12%
+    [1] => %172.17.0.12%
+    [2] => %172.17.0.12%
+    [3] => %172.17.0.12%
+    [4] => 25
+    [5] => 0
+)
+
+[02-Jul-2025 09:24:25 America/Guatemala] Equipos encontrados: 0
+[02-Jul-2025 09:24:25 America/Guatemala] ===================
+[02-Jul-2025 09:24:25 America/Guatemala] === DEBUG FILTRO ===
+[02-Jul-2025 09:24:25 America/Guatemala] Filtro búsqueda: '172.17.0.12'
+[02-Jul-2025 09:24:25 America/Guatemala] WHERE clause: WHERE (nombre_equipo LIKE ? OR ip_equipo LIKE ? OR numero_serie LIKE ? OR modelo LIKE ?)
+[02-Jul-2025 09:24:25 America/Guatemala] SQL: 
+    SELECT id, nombre_equipo, ip_equipo, ip_local, procesador, memoria_ram, 
+           disco_duro, sistema_operativo, fabricante, modelo, numero_serie,
+           usuario_sistema, fecha_captura, origen_datos, observaciones,
+           ubicacion, responsable, estado_equipo
+    FROM equipos_info 
+    WHERE (nombre_equipo LIKE ? OR ip_equipo LIKE ? OR numero_serie LIKE ? OR modelo LIKE ?)
+    ORDER BY fecha_captura DESC
+    LIMIT ? OFFSET ?
+
+[02-Jul-2025 09:24:25 America/Guatemala] Parámetros: Array
+(
+    [0] => %172.17.0.12%
+    [1] => %172.17.0.12%
+    [2] => %172.17.0.12%
+    [3] => %172.17.0.12%
+    [4] => 25
+    [5] => 0
+)
+
+[02-Jul-2025 09:24:25 America/Guatemala] Equipos encontrados: 0
+[02-Jul-2025 09:24:25 America/Guatemala] ===================
+[02-Jul-2025 09:24:26 America/Guatemala] === DEBUG FILTRO ===
+[02-Jul-2025 09:24:26 America/Guatemala] Filtro búsqueda: '172.17.0.12'
+[02-Jul-2025 09:24:26 America/Guatemala] WHERE clause: WHERE (nombre_equipo LIKE ? OR ip_equipo LIKE ? OR numero_serie LIKE ? OR modelo LIKE ?)
+[02-Jul-2025 09:24:26 America/Guatemala] SQL: 
+    SELECT id, nombre_equipo, ip_equipo, ip_local, procesador, memoria_ram, 
+           disco_duro, sistema_operativo, fabricante, modelo, numero_serie,
+           usuario_sistema, fecha_captura, origen_datos, observaciones,
+           ubicacion, responsable, estado_equipo
+    FROM equipos_info 
+    WHERE (nombre_equipo LIKE ? OR ip_equipo LIKE ? OR numero_serie LIKE ? OR modelo LIKE ?)
+    ORDER BY fecha_captura DESC
+    LIMIT ? OFFSET ?
+
+[02-Jul-2025 09:24:26 America/Guatemala] Parámetros: Array
+(
+    [0] => %172.17.0.12%
+    [1] => %172.17.0.12%
+    [2] => %172.17.0.12%
+    [3] => %172.17.0.12%
+    [4] => 25
+    [5] => 0
+)
+
+[02-Jul-2025 09:24:26 America/Guatemala] Equipos encontrados: 0
+[02-Jul-2025 09:24:26 America/Guatemala] ===================
+[02-Jul-2025 09:24:26 America/Guatemala] === DEBUG FILTRO ===
+[02-Jul-2025 09:24:26 America/Guatemala] Filtro búsqueda: '172.17.0.12'
+[02-Jul-2025 09:24:26 America/Guatemala] WHERE clause: WHERE (nombre_equipo LIKE ? OR ip_equipo LIKE ? OR numero_serie LIKE ? OR modelo LIKE ?)
+[02-Jul-2025 09:24:26 America/Guatemala] SQL: 
+    SELECT id, nombre_equipo, ip_equipo, ip_local, procesador, memoria_ram, 
+           disco_duro, sistema_operativo, fabricante, modelo, numero_serie,
+           usuario_sistema, fecha_captura, origen_datos, observaciones,
+           ubicacion, responsable, estado_equipo
+    FROM equipos_info 
+    WHERE (nombre_equipo LIKE ? OR ip_equipo LIKE ? OR numero_serie LIKE ? OR modelo LIKE ?)
+    ORDER BY fecha_captura DESC
+    LIMIT ? OFFSET ?
+
+[02-Jul-2025 09:24:26 America/Guatemala] Parámetros: Array
+(
+    [0] => %172.17.0.12%
+    [1] => %172.17.0.12%
+    [2] => %172.17.0.12%
+    [3] => %172.17.0.12%
+    [4] => 25
+    [5] => 0
+)
+
+[02-Jul-2025 09:24:26 America/Guatemala] Equipos encontrados: 0
+[02-Jul-2025 09:24:26 America/Guatemala] ===================
+[02-Jul-2025 09:24:28 America/Guatemala] === DEBUG FILTRO ===
+[02-Jul-2025 09:24:28 America/Guatemala] Filtro búsqueda: 'dell'
+[02-Jul-2025 09:24:28 America/Guatemala] WHERE clause: WHERE (nombre_equipo LIKE ? OR ip_equipo LIKE ? OR numero_serie LIKE ? OR modelo LIKE ?)
+[02-Jul-2025 09:24:28 America/Guatemala] SQL: 
+    SELECT id, nombre_equipo, ip_equipo, ip_local, procesador, memoria_ram, 
+           disco_duro, sistema_operativo, fabricante, modelo, numero_serie,
+           usuario_sistema, fecha_captura, origen_datos, observaciones,
+           ubicacion, responsable, estado_equipo
+    FROM equipos_info 
+    WHERE (nombre_equipo LIKE ? OR ip_equipo LIKE ? OR numero_serie LIKE ? OR modelo LIKE ?)
+    ORDER BY fecha_captura DESC
+    LIMIT ? OFFSET ?
+
+[02-Jul-2025 09:24:28 America/Guatemala] Parámetros: Array
+(
+    [0] => %dell%
+    [1] => %dell%
+    [2] => %dell%
+    [3] => %dell%
+    [4] => 25
+    [5] => 0
+)
+
+[02-Jul-2025 09:24:28 America/Guatemala] Equipos encontrados: 0
+[02-Jul-2025 09:24:28 America/Guatemala] ===================
